@@ -2,7 +2,7 @@
 <h3 align="center">20 y/o Minecraft Plugin Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/xxxxxxx.png" alt="Mahshid" width="200"/>
+  <img src="https://www.spigotmc.org/data/avatars/m/2360/2360264.jpg?1755036254" alt="Mahshid" width="200"/>
 </p>
 
 ---
